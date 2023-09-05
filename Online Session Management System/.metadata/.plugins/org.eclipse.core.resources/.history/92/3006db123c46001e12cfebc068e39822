@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Admin Home Page</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+  
+  <!-- Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">  
+</head>
+
+<body>
+
+  <header id="header" class="fixed-top header-inner-pages">
+    <div class="container d-flex align-items-center justify-content-between">
+      <h1 class="logo"><a href="AdminHomePage.jsp">Online Session Management</a></h1>
+       <nav id="navbar" class="navbar">
+	        <ul>
+	          <li><a class="nav-link scrollto active" href="AdminHomePage.jsp">Home</a></li>
+	          <li class="dropdown">
+	          <a style="color:white;">User Details<i class="bi bi-chevron-down"></i></a>
+		          <ul>
+		          <li class="dropdown"><a class="nav-link scrollto" href="Userregistration.jsp" style="color:black;">Add User</a></li>
+	              <li class="dropdown"><a class="nav-link scrollto" href="ViewUsers.jsp" style="color:black;">View User Details</a></li>
+	              </ul>
+	         </li> 
+	         <li class="dropdown">
+	            <a style="color:white;">Session<i class="bi bi-chevron-down"></i></a>
+		         <ul>
+		             <li class="dropdown"><a class="nav-link scrollto" href="CreateSession.jsp" style="color:black;">Create Session</a></li>
+		             <li class="dropdown"><a class="nav-link scrollto" href="ViewSession.jsp" style="color:black;">View Session</a></li>
+		         </ul>
+	         </li>
+	           <li class="dropdown">
+	            <a style="color:white;"><img src="assets/img/user.png" alt=""  class="rounded-circle">Welcome Admin</a>
+		            <ul><li class="dropdown"><a class="nav-link scrollto" href="Home.jsp" style="color:black;">Logout</a></li></ul>
+	          </li>
+	        </ul>  
+	        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+    </div>
+  </header>
+  <section id="hero">
+  <div class="carousel-item active" style="background-image: url(assets/img/adminhome.jpeg)">
+  </div>
+  </section>  
+</body>
+</html>

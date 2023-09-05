@@ -1,0 +1,74 @@
+
+Aug 28, 2023 21:34:48.29 NEW SESSION
+Aug 28, 2023 21:34:48.29 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 28, 2023 22:03:17.07 [14900:11204:0828/220317.075:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c4.gcp.gvt2.com failed:
+Aug 28, 2023 22:03:17.07 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 22:03:17.07 ERROR: Time is after notAfter
+Aug 28, 2023 22:03:17.07 
+Aug 28, 2023 22:03:17.07 
+Aug 28, 2023 22:35:50.76 [14900:15832:0828/223550.763:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Aug 28, 2023 22:47:24.85 [14900:11204:0828/224724.857:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c5.gcp.gvt2.com failed:
+Aug 28, 2023 22:47:24.86 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 22:47:24.86 ERROR: Time is after notAfter
+Aug 28, 2023 22:47:24.86 
+Aug 28, 2023 22:47:24.86 
+Aug 28, 2023 23:34:42.34 [14900:11204:0828/233442.344:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c36.gcp.gvt2.com failed:
+Aug 28, 2023 23:34:42.35 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 28, 2023 23:34:42.35 ERROR: Time is after notAfter
+Aug 28, 2023 23:34:42.35 
+Aug 28, 2023 23:34:42.35 
+Aug 29, 2023 24:28:51.81 [14900:11204:0829/002851.814:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c15.gcp.gvt2.com failed:
+Aug 29, 2023 24:28:51.81 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 29, 2023 24:28:51.81 ERROR: Time is after notAfter
+Aug 29, 2023 24:28:51.82 
+Aug 29, 2023 24:28:51.82 
+Aug 29, 2023 01:12:44.36 [14900:11204:0829/011244.361:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c65.gcp.gvt2.com failed:
+Aug 29, 2023 01:12:44.36 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 29, 2023 01:12:44.36 ERROR: Time is after notAfter
+Aug 29, 2023 01:12:44.36 
+Aug 29, 2023 01:12:44.36 
+Aug 29, 2023 01:23:25.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 29, 2023 02:03:46.70 [14588:1436:0829/020346.703:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c48.gcp.gvt2.com failed:
+Aug 29, 2023 02:03:46.70 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 29, 2023 02:03:46.70 ERROR: Time is after notAfter
+Aug 29, 2023 02:03:46.70 
+Aug 29, 2023 02:03:46.70 
+Aug 29, 2023 02:04:25.71 [14588:1436:0829/020425.714:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c39.gcp.gvt2.com failed:
+Aug 29, 2023 02:04:25.71 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 29, 2023 02:04:25.71 ERROR: Time is after notAfter
+Aug 29, 2023 02:04:25.71 
+Aug 29, 2023 02:04:25.71 
+Aug 29, 2023 04:14:54.99 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Aug 29, 2023 09:13:22.39 NEW SESSION
+Aug 29, 2023 09:13:22.39 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 29, 2023 09:17:09.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 29, 2023 09:37:04.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 29, 2023 09:37:32.85 [11716:13808:0829/093732.859:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Aug 29, 2023 09:39:34.05 [11716:13808:0829/093934.052:ERROR:cert_verify_proc_builtin.cc(701)] CertVerifyProcBuiltin for e2c22.gcp.gvt2.com failed:
+Aug 29, 2023 09:39:34.05 ----- Certificate i=0 (CN=*.gcp.gvt2.com) -----
+Aug 29, 2023 09:39:34.05 ERROR: Time is after notAfter
+Aug 29, 2023 09:39:34.05 
+Aug 29, 2023 09:39:34.05 
+Aug 29, 2023 09:49:25.57 [11716:16624:0829/094925.573:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+
+Aug 29, 2023 12:29:16.53 NEW SESSION
+Aug 29, 2023 12:29:16.53 [17404:8936:0829/122916.531:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:29:18.90 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 29, 2023 12:29:38.89 [17404:8936:0829/122938.895:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:30:35.31 [17404:8936:0829/123035.313:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:32:22.39 [17404:8936:0829/123222.398:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:36:18.28 [17404:8936:0829/123618.285:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:52:00.89 [17404:8936:0829/125200.891:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:52:26.45 [17404:8936:0829/125226.452:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:53:11.61 [17404:8936:0829/125311.616:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:54:42.49 [17404:8936:0829/125442.497:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 12:57:04.56 [17404:14732:0829/125704.569:ERROR:interface_endpoint_client.cc(702)] Message 5 rejected by interface blink.mojom.WidgetHost
+
+Aug 29, 2023 15:43:08.27 NEW SESSION
+Aug 29, 2023 15:43:08.27 [3848:5024:0829/154308.269:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 15:43:09.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Aug 29, 2023 15:43:29.84 [3848:5024:0829/154329.845:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 15:44:27.94 [3848:5024:0829/154427.942:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 15:45:54.54 [3848:5024:0829/154554.541:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Aug 29, 2023 15:49:13.68 [3848:5024:0829/154913.682:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
